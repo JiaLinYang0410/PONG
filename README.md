@@ -1,4 +1,4 @@
-##PONG
+## PONG
 The classic pong with turtle in Python. 
 PONG is a table tennis–themed arcade sports video game, featuring simple two-dimensional graphics. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. 
 
@@ -12,6 +12,7 @@ The game can be controlled by:
 
 ![image](https://github.com/JiaLinYang0410/PONG/assets/43829101/4d663cf4-f2dc-4270-b6b6-979bdff2ac6a)
 
+## Winning condition
 The first player to reach 5 points wins!
 
 ![image](https://github.com/JiaLinYang0410/PONG/assets/43829101/cb6f76cf-dfe6-4694-b547-cf72966ebc69)
