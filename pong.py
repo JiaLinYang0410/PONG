@@ -1,4 +1,3 @@
-#getting started
 #turtle module for basic graphic
 import turtle
 
@@ -101,7 +100,7 @@ def start_game():
 
         score_a = 0
         score_b = 0
-        winning_score = 1
+        winning_score = 5
         #moving the paddles using functions
         def paddle_A_up():
             #assigns y coordinate of paddle A to variable y
@@ -204,7 +203,7 @@ def start_game():
             if (ball.xcor() < -340 and ball.xcor() > -350) and (ball.ycor() < paddle_A.ycor() + 40 and ball.ycor() > paddle_A.ycor() - 40):
                 ball.setx(-340)
                 ball.dx *= -1
-                
+
             #winning player display
             if score_a >= winning_score:
                 display_winner(1)
