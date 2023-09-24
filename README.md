@@ -6,10 +6,8 @@ PONG is a table tennis–themed arcade sports video game, featuring simple two-d
 ## Control
 Players use the paddles to hit a ball back and forth. The ball bounces off the paddle and two walls. If the ball hits behind the paddle you score a point. 
 The game can be controlled by:
-Player 1:
-   - W and S keys
-Player 2:
-  - arrow-keys (up and down)
+   - Player 1: W and S keys
+  - Player 2: arrow-keys (up and down)
 
 ![image](https://github.com/JiaLinYang0410/PONG/assets/43829101/4d663cf4-f2dc-4270-b6b6-979bdff2ac6a)
 
